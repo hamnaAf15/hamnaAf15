@@ -1,5 +1,17 @@
-<!-- Hamna Afifa | Software Engineer | Full-Stack Web & Android Developer | Sialkot, Pakistan -->
-<!-- Palette: #678079 teal-grey | #88ab98 sage | #f2c35c gold | #a67b40 bronze | #36373a charcoal -->
+<!--
+  ============================================================
+  HAMNA AFIFA - GITHUB PROFILE README
+  Palette: #678079 teal-grey | #88ab98 sage | #f2c35c gold | #a67b40 bronze | #36373a charcoal
+
+  QUICK CHECKLIST - things you may need to change (search for "CHANGE"):
+  1. Email address (2 places)            -> only if you want a different one
+  2. LinkedIn URL (2 places)             -> already set from your resume, check it opens
+  3. Featured Projects table             -> replace the 3 placeholder rows with real projects
+  4. Card images (4 .svg files)          -> upload them to your repo first (see steps in chat)
+  5. Optional: add Kaggle / Portfolio    -> copy a badge line and change the URL
+  Your username "hamnaAf15" is already filled in everywhere.
+  ============================================================
+-->
 
 <div align="center">
 
@@ -9,18 +21,21 @@
 
 <br/><br/>
 
+<!-- CHANGE: LinkedIn URL (already taken from your resume - just check it opens your profile) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-36373a?style=for-the-badge&logo=linkedin&logoColor=88ab98&labelColor=36373a&color=678079)](https://www.linkedin.com/in/hamnabackenddeveloperuskt)
 [![GitHub](https://img.shields.io/badge/GitHub-hamnaAf15-36373a?style=for-the-badge&logo=github&logoColor=f2c35c&labelColor=36373a&color=678079)](https://github.com/hamnaAf15)
+<!-- CHANGE: email address after "mailto:" (or delete this whole line to hide your email) -->
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-36373a?style=for-the-badge&logo=gmail&logoColor=f2c35c&labelColor=36373a&color=a67b40)](mailto:hamnatalha121@gmail.com)
+<!-- OPTIONAL: to add Kaggle or a portfolio, copy a line above and change the URL in the last brackets -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamnaAf15&label=Profile%20Views&color=678079&labelColor=36373a&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/hamnaAf15?label=Followers&style=flat-square&color=a67b40&labelColor=36373a)
 
 </div>
 
----
+<br/>
 
-## ◈ About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36373a,100:678079&height=55&section=header&text=About%20Me&fontSize=24&fontColor=f2c35c&fontAlign=50&fontAlignY=50" alt="About Me" width="100%"/>
 
 Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundation in **full-stack web development** and **Android app development**. I build responsive, data-driven applications using **React, ASP.NET MVC, SQL and Java**, and I enjoy turning design concepts into functional, user-friendly products.
 
@@ -29,13 +44,14 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 - 📱 Developing **Android apps** with Java, XML, Firebase and SQLite
 - 🔐 Upskilling in **software design and security** through certifications
 - 🚀 Participant in the **NASA Space Apps Challenge**
+<!-- CHANGE: email address below (or delete this line) -->
 - 📫 Reach me at **hamnatalha121@gmail.com**
 
 > *"Every project is a step forward. Every bug is a lesson. Every commit is growth."*
 
----
+<br/>
 
-## ◈ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f2c35c,100:88ab98&height=55&section=header&text=Tech%20Stack&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="Tech Stack" width="100%"/>
 
 **Front-End**
 
@@ -66,51 +82,34 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-36373a?style=for-the-badge&logo=androidstudio&logoColor=a67b40)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-36373a?style=for-the-badge&logo=visualstudio&logoColor=88ab98)
 
----
+<br/>
 
-## ◈ What I Do
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:88ab98,100:678079&height=55&section=header&text=What%20I%20Do&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="What I Do" width="100%"/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<!--
+  CHANGE: these 4 cards are images. Before they show up, upload card-web.svg, card-android.svg,
+  card-frontend.svg and card-fundamentals.svg to your hamnaAf15 repo (steps are in the chat).
+  If your repo's default branch is not "main", replace "main" in the 4 links below.
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/card-web.svg" alt="Website Development" width="48%"/>
+  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/card-android.svg" alt="Android Development" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/card-frontend.svg" alt="Front-End Development" width="48%"/>
+  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/card-fundamentals.svg" alt="Programming Fundamentals" width="48%"/>
+</p>
 
-### 🌐 Website Development
-Full-stack development with **React, ASP.NET MVC and MySQL** to build dynamic, scalable, database-driven web applications.
+<br/>
 
-</td>
-<td width="50%" valign="top">
-
-### 📱 Android Development
-Android apps with **XML** for UI, **Java** for logic, **Firebase and SQLite** for data, and **API integration** for dynamic content.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Front-End Development
-Responsive, interactive interfaces using **HTML, CSS, JavaScript and React**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Programming Fundamentals
-Solid **Object-Oriented Programming**, problem solving, and core skills in **C++, C#, Java and Python**.
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a67b40,100:f2c35c&height=55&section=header&text=Experience&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="Experience" width="100%"/>
 
 **C++ Intern** · CodeAlpha · *Remote* · March 2024 – June 2024
 - Completed a hands-on C++ internship focused on strengthening core programming and problem-solving skills through applied coding tasks and projects.
 
----
+<br/>
 
-## ◈ Education
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:678079,100:36373a&height=55&section=header&text=Education&fontSize=24&fontColor=f2c35c&fontAlign=50&fontAlignY=50" alt="Education" width="100%"/>
 
 | Qualification | Years |
 |---|---|
@@ -118,9 +117,9 @@ Solid **Object-Oriented Programming**, problem solving, and core skills in **C++
 | 📘 FSc Pre-Engineering | 2019 – 2021 |
 | 💻 Matriculation, Computer Science | 2017 – 2019 |
 
----
+<br/>
 
-## ◈ Certifications & Achievements
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36373a,100:a67b40&height=55&section=header&text=Certifications%20%26%20Achievements&fontSize=24&fontColor=f2c35c&fontAlign=50&fontAlignY=50" alt="Certifications and Achievements" width="100%"/>
 
 - 🛡️ **Operating System Foundations** · InfoSec
 - 💼 **C++ Internship** · CodeAlpha
@@ -128,29 +127,35 @@ Solid **Object-Oriented Programming**, problem solving, and core skills in **C++
 - 🏛️ **ISPR Winter Internship** · ISPR
 - 🚀 **NASA Space Apps Challenge** · NASA
 
----
+<br/>
 
-## ◈ Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:88ab98,100:f2c35c&height=55&section=header&text=Featured%20Projects&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="Featured Projects" width="100%"/>
 
-<!-- TODO: replace these with your real projects, and pin your best 6 repos on your profile -->
+<!--
+  CHANGE: replace each row below with one of your real projects.
+  - Project name: change the text inside [**...**]
+  - Link: change the URL inside (...) to your repo link, e.g. https://github.com/hamnaAf15/your-repo-name
+  - Description and Tech: just edit the text
+  Add more rows by copying a line, or delete rows you don't need.
+-->
 
 | Project | Description | Tech |
 |---|---|---|
-| [**Project One**](https://github.com/hamnaAf15) | One line about what it does | React, ASP.NET MVC, MySQL |
-| [**Project Two**](https://github.com/hamnaAf15) | One line about what it does | Java, XML, Firebase |
-| [**Project Three**](https://github.com/hamnaAf15) | One line about what it does | C++ |
+| [**Smart Vision Helmet**](https://github.com/hamnaAf15) | One line about what it does | React, ASP.NET MVC, MySQL |
+| [**Smart City Traffic**](https://github.com/hamnaAf15) | One line about what it does | Java, XML, Firebase |
+| [**Study Space Dashboard**]([https://github.com/hamnaAf15](https://github.com/hamnaAf15/studySpace-website)) | One line about what it does | C++ |
 
----
+<br/>
 
-## ◈ Goals
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f2c35c,100:a67b40&height=55&section=header&text=Goals&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="Goals" width="100%"/>
 
 - **Now:** strengthening full-stack skills by building projects with React and ASP.NET MVC, and deepening knowledge of modern web design and database integration.
 - **Next:** growing into a professional full-stack developer in a dynamic, innovative tech environment, contributing to impactful software projects.
 - **Long term:** taking on a leadership role, mentoring others and managing development teams.
 
----
+<br/>
 
-## ◈ GitHub Stats & Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:678079,100:88ab98&height=55&section=header&text=GitHub%20Stats%20%26%20Activity&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="GitHub Stats and Activity" width="100%"/>
 
 <div align="center">
 
@@ -163,15 +168,16 @@ Solid **Object-Oriented Programming**, problem solving, and core skills in **C++
 
 </div>
 
----
+<br/>
 
-## ◈ Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a67b40,100:678079&height=55&section=header&text=Let%27s%20Connect&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Let's Connect" width="100%"/>
 
 <div align="center">
 
 💬 *Open to internships, collaborations, and full-stack or Android projects.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-36373a?style=for-the-badge&logo=linkedin&logoColor=88ab98&labelColor=36373a&color=678079)](https://www.linkedin.com/in/hamnabackenddeveloperuskt)
+<!-- CHANGE: LinkedIn URL and email, same as at the top -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-36373a?style=for-the-badge&logo=linkedin&logoColor=88ab98&labelColor=36373a&color=678079)](www.linkedin.com/in/hamnafullstackdeveloper)
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-36373a?style=for-the-badge&logo=gmail&logoColor=f2c35c&labelColor=36373a&color=a67b40)](mailto:hamnatalha121@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88ab98,50:678079,100:36373a&height=130&section=footer&text=Keep%20Building.%20Keep%20Growing.&fontSize=22&fontColor=f2c35c&fontAlignY=65" alt="Keep Building. Keep Growing." width="100%"/>
