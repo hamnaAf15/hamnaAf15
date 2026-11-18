@@ -92,12 +92,12 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
   If your repo's default branch is not "main", replace "main" in the 4 links below.
 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image.svg" alt="Website Development" width="48%"/>
-  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/card-android.svg" alt="Android Development" width="48%"/>
+  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image2.png" alt="Website Development" width="48%"/>
+  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image3.png" alt="Android Development" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/card-frontend.svg" alt="Front-End Development" width="48%"/>
-  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image.svg" alt="Programming Fundamentals" width="48%"/>
+  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image4.png" alt="Front-End Development" width="48%"/>
+  <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image.png" alt="Programming Fundamentals" width="48%"/>
 </p>
 
 <br/>
