@@ -44,8 +44,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 - 📱 Developing **Android apps** with Java, XML, Firebase and SQLite
 - 🔐 Upskilling in **software design and security** through certifications
 - 🚀 Participant in the **NASA Space Apps Challenge**
-<!-- CHANGE: email address below (or delete this line) -->
-- 📫 Reach me at **hamnatalha121@gmail.com**
+
 
 > *"Every project is a step forward. Every bug is a lesson. Every commit is growth."*
 
@@ -86,11 +85,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:88ab98,100:678079&height=55&section=header&text=What%20I%20Do&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="What I Do" width="100%"/>
 
-<!--
-  CHANGE: these 4 cards are images. Before they show up, upload card-web.svg, card-android.svg,
-  card-frontend.svg and card-fundamentals.svg to your hamnaAf15 repo (steps are in the chat).
-  If your repo's default branch is not "main", replace "main" in the 4 links below.
--->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image2.png" alt="Website Development" width="48%"/>
   <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image3.png" alt="Android Development" width="48%"/>
@@ -119,13 +114,17 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36373a,100:a67b40&height=55&section=header&text=Certifications%20%26%20Achievements&fontSize=24&fontColor=f2c35c&fontAlign=50&fontAlignY=50" alt="Certifications and Achievements" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:678079,100:36373a&height=55§ion=header&text=Education&fontSize=24&fontColor=f2c35c&fontAlign=50&fontAlignY=50" alt="Education" width="100%"/>
 
-- 🛡️ **Operating System Foundations** · InfoSec
-- 💼 **C++ Internship** · CodeAlpha
-- 🎨 **Build Wireframes and Low-Fidelity Prototypes** · Google
-- 🏛️ **ISPR Winter Internship** · ISPR
-- 🚀 **NASA Space Apps Challenge** · NASA
+<div align="center">
+
+| Qualification | Years |
+|:---:|:---:|
+| 🎓 **Bachelor of Software Engineering** | 2022 – 2026 |
+| 📘 FSc Pre-Engineering | 2019 – 2021 |
+| 💻 Matriculation, Computer Science | 2017 – 2019 |
+
+</div>
 
 <br/>
 
@@ -170,16 +169,20 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a67b40,100:678079&height=55&section=header&text=Let%27s%20Connect&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Let's Connect" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a67b40,100:678079&height=55§ion=header&text=Let%27s%20Connect&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Let's Connect" width="100%"/>
 
 <div align="center">
-
-💬 *Open to internships, collaborations, and full-stack or Android projects.*
-
-<!-- CHANGE: LinkedIn URL and email, same as at the top -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-36373a?style=for-the-badge&logo=linkedin&logoColor=88ab98&labelColor=36373a&color=678079)](www.linkedin.com/in/hamnafullstackdeveloper)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-36373a?style=for-the-badge&logo=gmail&logoColor=f2c35c&labelColor=36373a&color=a67b40)](mailto:hamnatalha121@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88ab98,50:678079,100:36373a&height=130&section=footer&text=Keep%20Building.%20Keep%20Growing.&fontSize=22&fontColor=f2c35c&fontAlignY=65" alt="Keep Building. Keep Growing." width="100%"/>
-
+  <br/>
+  💬 <i>Open to internships, collaborations, and full-stack or Android projects.</i>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/hamnafullstackdeveloper/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-36373a?style=for-the-badge&logo=linkedin&logoColor=88ab98&labelColor=36373a&color=678079" alt="LinkedIn" />
+  </a>
+   
+  <a href="mailto:hamnatalha121@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-36373a?style=for-the-badge&logo=gmail&logoColor=f2c35c&labelColor=36373a&color=a67b40" alt="Email" />
+  </a>
+  <br/><br/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88ab98,50:678079,100:36373a&height=130§ion=footer&text=Keep%20Building.%20Keep%20Growing.&fontSize=22&fontColor=f2c35c&fontAlignY=65" alt="Keep Building. Keep Growing." width="100%"/>
