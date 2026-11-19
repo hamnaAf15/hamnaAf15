@@ -110,7 +110,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 | [**Smart Vision Helmet**](https://appetize.io/app/b_crzkjkqbywxqglv2uwkylqnd2m?device=pixel7&osVersion=15.0&toolbar=true) | ESP32-based smart helmet with live YOLOv8 object detection and maps routing | Embedded C++, Android, Python |
 | [**Study Space Dashboard**](https://hamnaaf15.github.io/studySpace-website/) | Multi-page academic repository system with React frontend & ASP.NET backend | React, ASP.NET Core, MySQL |
 | [**Smart Traffic Management System**](https://hamnaaf15.github.io/smart-city-traffic-management/) | My first basic website | HTML, CSS |
-
+| [**RADAR**]([https://radar-astrox.onrender.com)) |Visual health self-screening tool for deep-space astronauts, with color-coded risk scores (MHRI, NRI, BRI), 4-week mental health forecasts and Rh-negative profile analysis | Python, Flask, scikit-learn, pandas, NumPy, HTML, CSS |
 </div>
 
 <br/>
@@ -138,7 +138,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-![Let's Connect](https://img.shields.io/badge/-Let's%20Connect-678079?style=for-the-badge)
+![Let's Connect](https://img.shields.io/badge/-Let%27s%20Connect-678079?style=for-the-badge)
 
 <div align="center">
   <br/>
