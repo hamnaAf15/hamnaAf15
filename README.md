@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-About%20Me-678079?style=for-the-badge" alt="About Me" height="40"/>
+<img src="https://img.shields.io/badge/-About%20Me-678079?style=for-the-badge" alt="About Me" height="50"/>
 
 Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundation in **full-stack web development** and **Android app development**. I build responsive, data-driven applications using **React, ASP.NET MVC, SQL and Java**, and I enjoy turning design concepts into functional, user-friendly products.
 
@@ -38,7 +38,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Tech%20Stack-a67b40?style=for-the-badge" alt="Tech Stack" height="40"/>
+<img src="https://img.shields.io/badge/-Tech%20Stack-a67b40?style=for-the-badge" alt="Tech Stack" height="50"/>
 
 **Front-End**
 ![HTML5](https://img.shields.io/badge/HTML5-36373a?style=for-the-badge&logo=html5&logoColor=f2c35c)
@@ -67,7 +67,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://img.shields.io/badge/-What%20I%20Do-678079?style=for-the-badge" alt="What I Do" height="40"/>
+<img src="https://img.shields.io/badge/-What%20I%20Do-678079?style=for-the-badge" alt="What I Do" height="50"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image2.png" alt="Website Development" width="48%"/>
@@ -80,14 +80,14 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Experience-36373a?style=for-the-badge" alt="Experience" height="40"/>
+<img src="https://img.shields.io/badge/-Experience-36373a?style=for-the-badge" alt="Experience" height="50"/>
 
 **C++ Intern** · CodeAlpha · *Remote* · March 2024 – June 2024
 - Completed a hands-on C++ internship focused on strengthening core programming and problem-solving skills through applied coding tasks and projects.
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Education-a67b40?style=for-the-badge" alt="Education" height="40"/>
+<img src="https://img.shields.io/badge/-Education-a67b40?style=for-the-badge" alt="Education" height="50"/>
 
 <div align="center">
 
@@ -101,7 +101,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Featured%20Projects-678079?style=for-the-badge" alt="Featured Projects" height="40"/>
+<img src="https://img.shields.io/badge/-Featured%20Projects-678079?style=for-the-badge" alt="Featured Projects" height="50"/>
 
 <div align="center">
 
@@ -115,7 +115,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Goals-36373a?style=for-the-badge" alt="Goals" height="40"/>
+<img src="https://img.shields.io/badge/-Goals-36373a?style=for-the-badge" alt="Goals" height="50"/>
 
 - **Now:** strengthening full-stack skills by building projects with React and ASP.NET MVC, and deepening knowledge of modern web design and database integration.
 - **Next:** growing into a professional full-stack developer in a dynamic, innovative tech environment, contributing to impactful software projects.
@@ -123,7 +123,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://img.shields.io/badge/-GitHub%20Stats%20%26%20Activity-a67b40?style=for-the-badge" alt="GitHub Stats and Activity" height="40"/>
+<img src="https://img.shields.io/badge/-GitHub%20Stats%20%26%20Activity-a67b40?style=for-the-badge" alt="GitHub Stats and Activity" height="50"/>
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Let%27s%20Connect-678079?style=for-the-badge" alt="Let's Connect" height="40"/>
+<img src="https://img.shields.io/badge/-Let%27s%20Connect-678079?style=for-the-badge" alt="Let's Connect" height="50"/>
 
 <div align="center">
   <br/>
