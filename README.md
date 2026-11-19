@@ -7,9 +7,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36373a,50:678079,100:88ab98&height=210§ion=header&text=Hamna%20Afifa&fontSize=52&fontColor=f2c35c&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20%26%20Android%20Developer&descSize=18&descColor=ffffff&descAlignY=58" alt="Hamna Afifa - Software Engineer, Full-Stack Web and Android Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:36373a,50:678079,100:88ab98&amp;height=210&amp;section=header&amp;text=Hamna%20Afifa&amp;fontSize=52&amp;fontColor=f2c35c&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20%26%20Android%20Developer&amp;descSize=18&amp;descColor=ffffff&amp;descAlignY=58" alt="Hamna Afifa - Software Engineer, Full-Stack Web and Android Developer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=F2C35C¢er=true&vCenter=true&width=700&lines=Software+Engineer+from+Sialkot%2C+Pakistan;Full-Stack+Web+Developer+%7C+React+%2B+ASP.NET+MVC;Android+Developer+%7C+Java%2C+Firebase+%26+SQLite;Open+to+internships+and+collaborations" alt="Typing animation: Software Engineer, Full-Stack Web Developer, Android Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;pause=1200&amp;color=F2C35C&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Software+Engineer+from+Sialkot%2C+Pakistan;Full-Stack+Web+Developer+%7C+React+%2B+ASP.NET+MVC;Android+Developer+%7C+Java%2C+Firebase+%26+SQLite;Open+to+internships+and+collaborations" alt="Typing animation: Software Engineer, Full-Stack Web Developer, Android Developer"/>
 
 <br/><br/>
 
@@ -24,7 +24,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36373a,100:678079&height=55§ion=header&text=About%20Me&fontSize=24&fontColor=f2c35c&fontAlign=50&fontAlignY=50" alt="About Me" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:36373a,100:678079&amp;height=42&amp;section=header&amp;text=About%20Me&amp;fontSize=20&amp;fontColor=f2c35c&amp;fontAlign=50&amp;fontAlignY=50" alt="About Me" width="100%"/>
 
 Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundation in **full-stack web development** and **Android app development**. I build responsive, data-driven applications using **React, ASP.NET MVC, SQL and Java**, and I enjoy turning design concepts into functional, user-friendly products.
 
@@ -38,7 +38,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f2c35c,100:88ab98&height=55§ion=header&text=Tech%20Stack&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="Tech Stack" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:f2c35c,100:88ab98&amp;height=42&amp;section=header&amp;text=Tech%20Stack&amp;fontSize=20&amp;fontColor=36373a&amp;fontAlign=50&amp;fontAlignY=50" alt="Tech Stack" width="100%"/>
 
 **Front-End**
 ![HTML5](https://img.shields.io/badge/HTML5-36373a?style=for-the-badge&logo=html5&logoColor=f2c35c)
@@ -67,7 +67,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:88ab98,100:678079&height=55§ion=header&text=What%20I%20Do&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="What I Do" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:88ab98,100:678079&amp;height=42&amp;section=header&amp;text=What%20I%20Do&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=50" alt="What I Do" width="100%"/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/hamnaAf15/hamnaAf15/main/image2.png" alt="Website Development" width="48%"/>
@@ -80,14 +80,14 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a67b40,100:f2c35c&height=55§ion=header&text=Experience&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="Experience" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:a67b40,100:f2c35c&amp;height=42&amp;section=header&amp;text=Experience&amp;fontSize=20&amp;fontColor=36373a&amp;fontAlign=50&amp;fontAlignY=50" alt="Experience" width="100%"/>
 
 **C++ Intern** · CodeAlpha · *Remote* · March 2024 – June 2024
 - Completed a hands-on C++ internship focused on strengthening core programming and problem-solving skills through applied coding tasks and projects.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:678079,100:36373a&height=55§ion=header&text=Education&fontSize=24&fontColor=f2c35c&fontAlign=50&fontAlignY=50" alt="Education" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:678079,100:36373a&amp;height=42&amp;section=header&amp;text=Education&amp;fontSize=20&amp;fontColor=f2c35c&amp;fontAlign=50&amp;fontAlignY=50" alt="Education" width="100%"/>
 
 <div align="center">
 
@@ -101,7 +101,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:88ab98,100:f2c35c&height=55§ion=header&text=Featured%20Projects&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="Featured Projects" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:88ab98,100:f2c35c&amp;height=42&amp;section=header&amp;text=Featured%20Projects&amp;fontSize=20&amp;fontColor=36373a&amp;fontAlign=50&amp;fontAlignY=50" alt="Featured Projects" width="100%"/>
 
 <div align="center">
 
@@ -109,13 +109,13 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 |:---|:---|:---|
 | [**Smart Vision Helmet**](https://appetize.io/app/b_crzkjkqbywxqglv2uwkylqnd2m?device=pixel7&osVersion=15.0&toolbar=true) | ESP32-based smart helmet with live YOLOv8 object detection and maps routing | Embedded C++, Android, Python |
 | [**Study Space Dashboard**](https://hamnaaf15.github.io/studySpace-website/) | Multi-page academic repository system with React frontend & ASP.NET backend | React, ASP.NET Core, MySQL |
-| [**Smart Traffic Management Syatem**](https://hamnaaf15.github.io/smart-city-traffic-management/) | My first Basic website using html, css| 
+| [**Smart Traffic Management System**](https://hamnaaf15.github.io/smart-city-traffic-management/) | My first basic website | HTML, CSS |
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f2c35c,100:a67b40&height=55§ion=header&text=Goals&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="Goals" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:f2c35c,100:a67b40&amp;height=42&amp;section=header&amp;text=Goals&amp;fontSize=20&amp;fontColor=36373a&amp;fontAlign=50&amp;fontAlignY=50" alt="Goals" width="100%"/>
 
 - **Now:** strengthening full-stack skills by building projects with React and ASP.NET MVC, and deepening knowledge of modern web design and database integration.
 - **Next:** growing into a professional full-stack developer in a dynamic, innovative tech environment, contributing to impactful software projects.
@@ -123,7 +123,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:678079,100:88ab98&height=55§ion=header&text=GitHub%20Stats%20%26%20Activity&fontSize=24&fontColor=36373a&fontAlign=50&fontAlignY=50" alt="GitHub Stats and Activity" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:678079,100:88ab98&amp;height=42&amp;section=header&amp;text=GitHub%20Stats%20%26%20Activity&amp;fontSize=20&amp;fontColor=36373a&amp;fontAlign=50&amp;fontAlignY=50" alt="GitHub Stats and Activity" width="100%"/>
 
 <div align="center">
 
@@ -138,7 +138,7 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a67b40,100:678079&height=55§ion=header&text=Let%27s%20Connect&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=50" alt="Let's Connect" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:a67b40,100:678079&amp;height=42&amp;section=header&amp;text=Let%27s%20Connect&amp;fontSize=20&amp;fontColor=ffffff&amp;fontAlign=50&amp;fontAlignY=50" alt="Let's Connect" width="100%"/>
 
 <div align="center">
   <br/>
@@ -147,11 +147,11 @@ Software Engineering graduate from **Sialkot, Pakistan**, with a strong foundati
   <a href="https://www.linkedin.com/in/hamnafullstackdeveloper/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-36373a?style=for-the-badge&logo=linkedin&logoColor=88ab98&labelColor=36373a&color=678079" alt="LinkedIn" />
   </a>
-   
+   
   <a href="mailto:hamnatalha121@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-36373a?style=for-the-badge&logo=gmail&logoColor=f2c35c&labelColor=36373a&color=a67b40" alt="Email" />
   </a>
   <br/><br/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88ab98,50:678079,100:36373a&height=130§ion=footer&text=Keep%20Building.%20Keep%20Growing.&fontSize=22&fontColor=f2c35c&fontAlignY=65" alt="Keep Building. Keep Growing." width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:88ab98,50:678079,100:36373a&amp;height=130&amp;section=footer&amp;text=Keep%20Building.%20Keep%20Growing.&amp;fontSize=22&amp;fontColor=f2c35c&amp;fontAlignY=65" alt="Keep Building. Keep Growing." width="100%"/>
